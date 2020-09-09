@@ -1,2 +1,4 @@
 # WarAxe_Legion
-WarAxe_Legion is an emulator that supports Legion on patch 7.3.5 (26365)
+An open source code that is available to the public. Anyone can open a pull request we want to make open source great once more.
+
+Supported Version: 7.3.5 (26365) Legion
